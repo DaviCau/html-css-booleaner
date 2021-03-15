@@ -1,9 +1,37 @@
 header{
     background-image: url('img/pattern.png');
-    height: 150px;
+    height: 100px;
     background-color: #58A6FF;
 }
 
 #logo{
     height: 50px;
+}
+
+.titolo{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.autore{
+    color: gray;
+    font-size: 18;
+    font-weight: bold;
+}
+
+#booleaner{
+    color: blue;
+}
+
+.data{
+    color: gray;
+    font-size: 12px;
+}
+
+.didascalia{
+    font-size: 12px;
+}
+
+.importante{
+    background-color: yellow;
 }
