@@ -35,3 +35,19 @@ header{
 .importante{
     background-color: yellow;
 }
+
+table{
+    text-align: left;
+}
+
+thead{
+    background-color: #20a9e5;
+}
+
+.corto {
+    width: 300px;
+}
+
+.dispari{
+    background-color: #B1E5F2;
+}
